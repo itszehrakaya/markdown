@@ -14,4 +14,4 @@ props = {
 }
 
 for key, value in props.items():
-    print(f"### {key}","\n", f"Type: `{value}`","\n")
+    print(f"### {key} \nType: `{value}`","\n")
